@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem complexity="2" subject="Web" author="jvadillo001@ikasle.ehu.es">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value1> OBJECT </value1>
+			<value2> TABLE </value2>
+			<value3> DIV </value3>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem complexity="4" subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value1> HTTP </value1>
+			<value2> SMTP </value2>
+			<value3> Ninguna es correcta </value3>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem complexity="3" subject="ajax" author="gilengorrotxa@gmail.com"><itemBody><p>funciona ajax?</p></itemBody><correctResponse><value>obvio</value></correctResponse><incorrectResponses><value1>claro</value1><value2>por supuesto</value2><value3>aroooo</value3></incorrectResponses></assessmentItem><assessmentItem complexity="3" subject="quetal" author="gilengorrotxa@gmail.com"><itemBody><p>Que tal?</p></itemBody><correctResponse><value>bien</value></correctResponse><incorrectResponses><value1>mal</value1><value2>fatal</value2><value3>sinmas</value3></incorrectResponses></assessmentItem><assessmentItem complexity="" subject="" author=""><itemBody><p/></itemBody><correctResponse><value/></correctResponse><incorrectResponses><value1/><value2/><value3/></incorrectResponses></assessmentItem><assessmentItem complexity="" subject="" author=""><itemBody><p/></itemBody><correctResponse><value/></correctResponse><incorrectResponses><value1/><value2/><value3/></incorrectResponses></assessmentItem><assessmentItem complexity="" subject="" author=""><itemBody><p/></itemBody><correctResponse><value/></correctResponse><incorrectResponses><value1/><value2/><value3/></incorrectResponses></assessmentItem><assessmentItem complexity="3" subject="aaaaaaa" author="gilengorrotxa@gmail.com"><itemBody><p>aaaaaaaaaa</p></itemBody><correctResponse><value>aaaaaaaa</value></correctResponse><incorrectResponses><value1>aaaaaaaaa</value1><value2>aaaaaaaaaa</value2><value3>aaaaaaaaaaaa</value3></incorrectResponses></assessmentItem></assessmentItems>
